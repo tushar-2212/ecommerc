@@ -52,5 +52,5 @@ python manage.py runserver
 ## Cart Page
 ![Screenshot 2021-06-28 at 5 44 32 PM](https://user-images.githubusercontent.com/74947908/123634795-83723400-d838-11eb-8b67-8960f2117173.png)
 
-##Checkout Page
+## Checkout Page
 ![Screenshot 2021-06-28 at 5 44 48 PM](https://user-images.githubusercontent.com/74947908/123634828-8cfb9c00-d838-11eb-991b-5b302b202e95.png)
