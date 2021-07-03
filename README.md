@@ -47,12 +47,10 @@ python manage.py runserver
 # Screenshots
 
 ## Home Page
-![Screenshot 2021-06-27 at 9 53 05 PM](https://user-images.githubusercontent.com/74947908/123552077-1efc9980-d792-11eb-9ab8-193972be5dbf.png)
+![Screenshot 2021-06-28 at 5 44 09 PM](https://user-images.githubusercontent.com/74947908/123634743-748b8180-d838-11eb-9e1f-1f2cfeb580c8.png)
 
 ## Cart Page
-![Screenshot 2021-06-27 at 9 55 37 PM](https://user-images.githubusercontent.com/74947908/123552139-6be07000-d792-11eb-8697-1e63134c34aa.png)
+![Screenshot 2021-06-28 at 5 44 32 PM](https://user-images.githubusercontent.com/74947908/123634795-83723400-d838-11eb-8b67-8960f2117173.png)
 
-##Checkout Page
-![Screenshot 2021-06-27 at 9 57 08 PM](https://user-images.githubusercontent.com/74947908/123552190-a1855900-d792-11eb-8a50-ed81168ab05e.png)
-
-
+## Checkout Page
+![Screenshot 2021-06-28 at 5 44 48 PM](https://user-images.githubusercontent.com/74947908/123634828-8cfb9c00-d838-11eb-991b-5b302b202e95.png)
